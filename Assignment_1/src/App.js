@@ -6,7 +6,7 @@ import UserOutput from './UserOutput/UserOutput';
 class App extends Component {
   state = {
     usernames:[
-      {name: 'Lili'},
+      {name: 'Lil'},
       {name: 'Jill'},
       {name: 'Mick'}
     ]
